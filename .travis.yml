@@ -1,4 +1,4 @@
-Language: cpp
-OS: Linux
-Script :
-  - make
+language: cpp
+os: linux
+script:
+    - make
